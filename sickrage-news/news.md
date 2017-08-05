@@ -3,7 +3,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
-####2017-08-04####
+####2017-08-05####
 
 Our main repository on Github [SickRage/SickRage](https://github.com/SickRage/SickRage) is now available.<br/>
 If you installed SickRage using a mirror of **our** repository, or switched your installation to get updates from a mirror, please make sure that you're back on the main repo URL in order to be able to receive future updates.<br/>
